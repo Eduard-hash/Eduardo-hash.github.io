@@ -1,0 +1,43 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: "Castoro", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+        padding: 20px 0;    
+        color: #00539F;
+        text-shadow: 3px 3px 1px yellow;
+  }
+  
+  p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  p{
+      color: chartreuse;
+      width: 500px;
+      background-color: salmon;
+      text-shadow: seagreen;
+  }
+  ul {
+      color: beige;
+  }
+
+  html {
+      background-color: slateblue;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color:slateblue;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
